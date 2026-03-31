@@ -1,0 +1,70 @@
+﻿--- START PDF TEXT ---
+CUIT   CUIT
+America Virtual   S.A.   30-71078702-2   America Virtual S.A.   30-71078702-2
+AV CASEROS 3350   6   A   -   CABA   AV CASEROS 3350 6 A - CABA
+APELLIDO Y NOMBRE   CUIL   LEGAJO   APELLIDO Y NOMBRE   CUIL   LEGAJO
+20-44363094-6   20-44363094-6
+377   FERNANDEZ DELGAUDIO ,   THIAGO   JULIAN   377
+FERNANDEZ   DELGAUDIO   ,   THIAGO JULIAN
+SECCI├ôN   SECCI├ôN   REMUNERACI├ôN
+REMUNERACI├ôN   RECIBO N┬║   RECIBO N┬║
+FECHA DE INGRESO   FECHA DE INGRESO
+ASIGNADA
+ASIGNADA
+IT Y   PROYECTOS   IT Y PROYECTOS
+20/5/2025   972.320,00(*)   65
+CATEGOR├ìA   20/5/2025   972.320,00(*)   65   CATEGOR├ìA
+DESARROLLADOR   FRONT   END   DESARROLLADOR FRONT   END
+FEBRERO 2026   FEBRERO   2026
+PER├ìODO DE PAGO:   PER├ìODO DE PAGO:
+CALIFICACI├ôN PROFESIONAL   CALIFICACI├ôN PROFESIONAL
+A   Tiempo   completo   indeterminado
+A Tiempo completo indeterminado
+CONTRATACI├ôN:   CONTRATACI├ôN:
+DESARROLLADOR   FRONT   END   DESARROLLADOR FRONT   END   /Trabajo   permanente
+/Trabajo permanente
+REMUN. SUJ. A RET.   REMUN.EXENTAS   REMUN. SUJ. A RET.   REMUN. EXENTAS
+CONCEPTO   uds.   DESCUENTOS   CONCEPTO   uds.   DESCUENTOS
+1500   SUELDOS   B├üSICO   28   972.320,00   1500   SUELDOS   B├üSICO   28   972.320,00
+1913   PLUS   VACACIONAL   14   90.749,87   1913   PLUS VACACIONAL   14   90.749,87
+3000   JUBILACION   11%   116.937,69   3000   JUBILACION 11%   116.937,69
+3003   OBRA   SOCIAL   3%   31.892,10   3003   OBRA SOCIAL 3%   31.892,10
+3010   LEY   19032   3%   31.892,10   3010   LEY 19032 3%   31.892,10
+3050   OBRA   SOCIAL   -   LEY   26474 ART.4   5.671,26   3050   OBRA SOCIAL -   LEY   26474   ART.4   5.671,26
+3594   APORTE   EXTRAORD   OSECAC   100,00   3594   APORTE EXTRAORD   OSECAC   100,00
+9999   REDONDEO   0,28   9999   REDONDEO   0,28
+1.063.069,87   0,28
+1.063.069,87   0,28   186.493,15   186.493,15
+LUGAR Y FECHA DE PAGO
+LUGAR Y FECHA DE PAGO   FORMA DE   TOTAL NETO   ÔåÆ   876.577,00   FORMA DE   TOTAL NETO   ÔåÆ   876.577,00
+PAGO   PAGO
+ADMISTRACION   CENTRAL,   Florida   141 3   ADMISTRACION CENTRAL,   Florida   141   3
+Dep├│sito   Bancario   Dep├│sito   Bancario
+O.S.: O.S.E.C.A   O.S.:   O.S.E.C.A
+27/02/2026   27/02/2026
+Fecha Ing.   Rec.:   20/5/2025   Antig.:   0   a├▒os.   Fecha Ing. Rec.: 20/5/2025   Antig.:   0   a├▒os.
+Ochocientos Setenta y Seis Mil Quinientos Setenta y Siete   Ochocientos Setenta y Seis Mil Quinientos Setenta y Siete
+SON PESOS:   SON PESOS:
+Los   haberes   se   depositar├ín   en   la   cuenta   Nro.   502557076   del   banco   PROVINCIA   BUENOS   AI   Los   haberes   se   depositar├ín   en   la   cuenta   Nro.   502557076   del   banco   PROVINCIA   BUENOS   AI
+FEBRERO 2026   FEBRERO 2026
+ART. 12 LEY 17250   Recib├¡ el importe de la presente liquidaci├│n, as├¡ como su duplicado en pago de mi   ART. 12 LEY 17250   La empresa reconoce la autenticidad, autor├¡a e integridad del presente documento,
+remuneraci├│n correspondiente al per├¡odo arriba indicado.   cuya emisi├│n ha sido realizada de acuerdo a lo dispuesto por la Resoluci├│n MPyT
+MES   ENERO   2026   MES   ENERO 2026
+N┬║ 346/2019
+FERNANDEZ DELGAUDIO , THIAGO JULIAN
+PATAGONIA   PATAGONIA
+BANCO   BANCO
+28/2/2026 11:57:10
+09/02/2026
+FECHA DEP├ôSITO   09/02/2026
+FECHA DEP├ôSITO
+FIRMA DEL EMPLEADO   FIRMA DEL EMPLEADO
+FIRMA DEL EMPLEADOR
+(CONFORME)   (NO CONFORME)
+
+
+--- END PDF TEXT ---
+Sueldo: null
+Obra Social: 31.892,10
+Jubilacion: 116.937,69
+Neto: 876.577,00
