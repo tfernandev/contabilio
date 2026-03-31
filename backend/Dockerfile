@@ -1,5 +1,5 @@
 # Build Stage
-FROM mcr.microsoft.com/dotnet/sdk:10.0-preview AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /source
 
 # Install native dependencies for build (if needed)
@@ -14,7 +14,7 @@ COPY . .
 RUN dotnet publish -c Release -o /app/publish
 
 # Runtime Stage
-FROM mcr.microsoft.com/dotnet/aspnet:10.0-preview
+FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
 
 # Install native Tesseract dependencies for runtime
