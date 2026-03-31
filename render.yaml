@@ -1,0 +1,33 @@
+services:
+  # Backend API (.NET 10 + Docker)
+  - type: web
+    name: contabilio-api
+    runtime: docker
+    dockerContext: backend
+    dockerFilePath: backend/Dockerfile
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: contabilio-db
+          property: connectionString
+      - key: PORT
+        value: 10000
+    plan: free
+
+  # Frontend App (React + Vite)
+  - type: web
+    name: contabilio-app
+    runtime: static
+    publishPath: frontend/dist
+    buildCommand: cd frontend && npm install && npm run build
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: contabilio-api
+          property: host
+    plan: free
+
+databases:
+  - name: contabilio-db
+    plan: free

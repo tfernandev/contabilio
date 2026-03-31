@@ -29,7 +29,7 @@ export interface ArcaVoucher {
  * In a real production environment, this would call a Node.js/C# API
  * that signs requests with the taxpayer's .key and .crt files.
  */
-const BASE_URL = 'http://localhost:5154/api/arca';
+const BASE_URL = (import.meta.env.VITE_API_URL || 'http://localhost:5154') + '/api/arca';
 
 /**
  * ARCA (Agencia de Recaudación y Control Aduanero) - Service Integration

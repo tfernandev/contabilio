@@ -41,7 +41,8 @@ const AnalizadorIA: React.FC = () => {
                 formData.append('file', new Blob(['demo'], { type: 'text/plain' }), 'demo.txt');
             }
 
-            const response = await fetch('http://localhost:5154/api/analyzer/analyze', {
+            const apiBase = import.meta.env.VITE_API_URL || 'http://localhost:5154';
+            const response = await fetch(`${apiBase}/api/analyzer/analyze`, {
                 method: 'POST',
                 body: formData
             });
